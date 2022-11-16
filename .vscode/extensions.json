@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "editorconfig.editorconfig",
+        "mhutchie.git-graph",
+        "github.copilot",
+        "eamodio.gitlens",
+        "ms-toolsai.jupyter",
+        "davidanson.vscode-markdownlint",
+        "ms-python.python",
+        "wayou.vscode-todo-highlight"
+    ]
+}
